@@ -1,0 +1,8 @@
+[package]
+name = "rust_and_balance"
+version = "0.0.1"
+
+[dependencies]
+hyper = "0.12"
+log = "0.4"
+pretty_env_logger = "0.3"
